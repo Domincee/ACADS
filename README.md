@@ -14,7 +14,7 @@ This repo serves as a **personal knowledge base** where I document my academic w
 ---
 
 ## 📂 Repository Structure
-- `courses/` → Notes & exercises from online courses (Coursera, Udemy, YouTube, etc.)  
+- `courses/` → Notes & exercises from online courses (School,Coursera, Udemy, YouTube, etc.)  
 - `projects/` → Simple projects and experiments applying new skills  
 - `assignments/` → Academic-related exercises and practice tasks  
 - `resources/` → References, articles, and other learning materials  
@@ -23,13 +23,20 @@ This repo serves as a **personal knowledge base** where I document my academic w
 
 ## 🚀 Current Focus
 - **Web Development** (JavaScript, HTML, CSS, React, Next.js)  
-- **Machine Learning** (Currently)
+- **Machine Learning** (Fundamentals)
+--**Software Engineering**(Fundamentals)
+--**Kaggle Online Course**(Every Weekends)
+
   
 
 ## ✅ Progress Tracker
 - [x] Setup repo for learning documentation  
 - [ ] Complete JavaScript fundamentals section  
-- [ ] Build 3+ mini-projects from YouTube tutorials  
+- [ ] Understand Machine Learning Fundamentals
+- [ ] Understand Software Engineering Fundamentals
+- [ ] Do 3+ simple Data processingn - Toy data
+- [ ] Constract 3+ Activity Diagram with real world scenarious
+- [ ] Build 3+ mini-projects
 - [ ] Finish one full online course (Coursera/Udemy)  
 - [ ] Document learning reflections regularly  
 
