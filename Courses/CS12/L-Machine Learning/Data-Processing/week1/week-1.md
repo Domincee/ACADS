@@ -32,10 +32,10 @@
 >- Key takeaways in your own words  
 >- Insights, mistakes fixed, or “ahhh okay” moments  
 
->##  Code Examples
->```python
+##  Code Examples
+```python
 
->```
+```
 <br>
 
 # Handling MKissing Values
