@@ -23,10 +23,8 @@ This repo serves as a **personal knowledge base** where I document my academic w
 
 ## 🚀 Current Focus
 - **Web Development** (JavaScript, HTML, CSS, React, Next.js)  
-- **Computer Science Fundamentals** (Data Structures, Algorithms)  
-- **Other Tech Skills** (Python basics, Git, productivity tools)  
-
----
+- **Machine Learning** (Currently)
+  
 
 ## ✅ Progress Tracker
 - [x] Setup repo for learning documentation  
