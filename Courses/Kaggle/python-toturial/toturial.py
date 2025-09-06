@@ -1,15 +1,51 @@
-age = 18
 
-gender = "Male"
+is_member = False
 
+amount = 100
 
-if(age >= 18):
-    print("Not Under Age")
+seasonal_sale = True
 
+total_discount = 0;
 
-    if(gender == "Female"):
-        print("Gender is: ",gender )
+if(is_member):
+    print("A Member")
+    if amount >= 100:
+        print("Amount spend more than 100")
+        total_discount = 20
+
+    elif amount >= 50:
+        print("Amount spend more than 50")
+
+    if(seasonal_sale):
+          print("It is seasonal_sale")
+          total_discount = total_discount + 5
     else:
-        print("Gender is Male")
+         print("Not seasonal Sale")
+
 else:
-    print("Under Age")
+    print("Not a Member")
+
+    if amount >= 100:
+        print("Amount spend more than 100")
+        total_discount = 20
+
+    elif amount >= 50:
+        print("Amount spend more than 50")
+
+        total_discount = 10
+
+    if(seasonal_sale):
+          print("It is seasonal_sale")
+          total_discount = total_discount + 5
+    else:
+         print("Not seasonal Sale")
+
+
+
+
+print("You got a total", total_discount ,"% Discount!")
+
+
+
+
+    
