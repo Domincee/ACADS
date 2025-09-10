@@ -28,14 +28,17 @@
 >- Short description of what this material is about  
 >- Key concepts covered  
 
+##  Code Examples
+```python
+    #Example code below
+```
+
+
 >##  What I Learned
 >- Key takeaways in your own words  
 >- Insights, mistakes fixed, or “ahhh okay” moments  
 
-##  Code Examples
-```python
 
-```
 <br>
 
 # Handling MKissing Values
