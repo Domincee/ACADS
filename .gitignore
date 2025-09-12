@@ -10,3 +10,5 @@ venv/
 *.csv
 *.xlsx
 secrets.json
+# Ignore large CSV files
+Courses/CS12/L-Machine Learning/survey_results_public.csv
